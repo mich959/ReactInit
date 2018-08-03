@@ -1,2 +1,0 @@
-# ReactInit
-Created with CodeSandbox
